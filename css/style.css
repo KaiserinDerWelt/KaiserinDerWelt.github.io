@@ -615,8 +615,7 @@ body.offcanvas {
       transform: translate3d(0, -15px, 0);
       margin-bottom: 15px; }
       .project .desc h3 a {
-        color: #000000; 
-        font-size: 38px !important;           }
+        color: #000000;}
     .project .desc span {
       display: block;
       color: #000000;
@@ -1114,7 +1113,7 @@ body.offcanvas {
   padding: 10px !important; }
 
 .js .animate-box {
-  opacity: 0; }
+  opacity: 1; }
 
 #sticky_item {
   overflow: hidden;
