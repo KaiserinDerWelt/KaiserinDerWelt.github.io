@@ -578,7 +578,9 @@ body.offcanvas {
       padding: 20px;
       display: block;
       position: relative;
-      height: 450px; }
+      height: 450px;
+      background-color:#FFFF00;
+      opacity: 0;}
       .project .desc .con .icon {
         position: absolute;
         bottom: 20px;
@@ -613,7 +615,8 @@ body.offcanvas {
       transform: translate3d(0, -15px, 0);
       margin-bottom: 15px; }
       .project .desc h3 a {
-        color: #000000; }
+        color: #000000; 
+        font-size: 38px !important;           }
     .project .desc span {
       display: block;
       color: #000000;
