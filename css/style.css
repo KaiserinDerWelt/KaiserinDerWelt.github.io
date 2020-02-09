@@ -581,6 +581,7 @@ body.offcanvas {
       height: 493px;
       background-color:#FFFF00;
       opacity: 0.8;}
+      font-size: 38px;
       .project .desc .con .icon {
         position: absolute;
         bottom: 20px;
@@ -601,7 +602,7 @@ body.offcanvas {
           font-size: 16px;
           color: #cccccc; }
     .project .desc h3 {
-      font-size: 120px;
+      font-size: 80px;
       font-weight: 900;
       text-transform: uppercase;
       letter-spacing: 1px;
@@ -620,7 +621,7 @@ body.offcanvas {
     .project .desc span {
       display: block;
       color: #000000;
-      font-size: 30px;
+      font-size: 20px;
       text-decoration: underline;
       -webkit-transition: -webkit-transform 0.3s, opacity 0.3s;
       -webkit-transition: opacity 0.3s, -webkit-transform 0.3s;
