@@ -1016,8 +1016,8 @@ body.offcanvas {
     .colorlib-nav-toggle i::before, .colorlib-nav-toggle i::after {
       content: '';
       width: 30px;
-      height: 2px;
-      background: #000;
+      height: 5px;
+      background: #FFFF00;
       position: absolute;
       left: 0;
       -webkit-transition: 0.2s;
