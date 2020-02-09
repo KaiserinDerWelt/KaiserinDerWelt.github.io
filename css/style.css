@@ -1017,7 +1017,7 @@ body.offcanvas {
       content: '';
       width: 30px;
       height: 5px;
-      background: #FFFF00;
+      background: #FFFF00 !important;
       position: absolute;
       left: 0;
       -webkit-transition: 0.2s;
