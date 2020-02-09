@@ -580,7 +580,7 @@ body.offcanvas {
       position: relative;
       height: 450px;
       background-color:#FFFF00;
-      opacity: 0;}
+      opacity: 0.8;}
       .project .desc .con .icon {
         position: absolute;
         bottom: 20px;
