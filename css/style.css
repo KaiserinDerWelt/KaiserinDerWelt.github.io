@@ -308,13 +308,15 @@ figure {
           font-weight: 600; }
           @media screen and (max-width: 768px) {
             #colorlib-hero .flexslider .slider-text > .slider-text-inner h1 {
-              font-size: 28px; } }
+              font-size: 28px;
+            text-align:left;} }
         #colorlib-hero .flexslider .slider-text > .slider-text-inner h2 {
           font-size: 35px;
           line-height: 1.1;
           margin-bottom: 20px;
           font-weight: 700;
           text-decoration: underline;
+          text-align:left;
           font-family: "Quicksand", Arial, sans-serif; }
           #colorlib-hero .flexslider .slider-text > .slider-text-inner h2 a {
             color: rgba(247, 89, 64, 0.8);
