@@ -3916,3 +3916,7 @@ input, select, textarea {
 			font-size: 120px;
 			line-height: 140px;
 		}
+
+		.skills-content{
+			text-align: justify;
+		}
