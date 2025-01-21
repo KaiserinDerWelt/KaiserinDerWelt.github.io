@@ -16,7 +16,7 @@ section, summary, time, mark, audio, video {
 	padding: 0;
 	border: 0;
 	font-size: 100%;
-	font: inherit;
+	font-family: "Archivo Black", serif;
 	vertical-align: baseline;}
 
 article, aside, details, figcaption, figure,
@@ -3091,7 +3091,7 @@ input, select, textarea {
 
 			.spotlights > section > .content {
 				padding: 4em 4em 2em 4em ;
-				background-color: #333333 !important;
+				background-color: #000000 !important;
 			}
 
 		}
@@ -3247,11 +3247,11 @@ input, select, textarea {
 		}
 
 		.wrapper.style1-alt {
-			background-color: #333333;
+			background-color: #000000;
 		}
 
 		.wrapper.style2 {
-			background-color: #5052b5;
+			background-color: #000000;
 		}
 
 		.wrapper.style2-alt {
@@ -3527,7 +3527,7 @@ input, select, textarea {
 
 	#sidebar {
 		padding: 2.5em 2.5em 0.5em 2.5em ;
-		background: #333333;
+		background: #000000;
 		cursor: default;
 		height: 100vh;
 		left: 0;
@@ -3909,4 +3909,10 @@ input, select, textarea {
 				background-attachment: scroll;
 			}
 
+		}
+
+		.header-mainpage{
+			color: #000000;
+			font-size: 120px;
+			line-height: 140px;
 		}
