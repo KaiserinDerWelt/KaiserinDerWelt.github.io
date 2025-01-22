@@ -2525,7 +2525,7 @@ input, select, textarea {
 			width: 2.5em;
 			height: 2.5em;
 			display: block;
-			background: #ffffff;
+			background: #D45B31;
 			border-radius: 100%;
 			color: #312450;
 			text-align: center;
@@ -3259,7 +3259,7 @@ input, select, textarea {
 		}
 
 		.wrapper.style3 {
-			background-color:  #008B8B;
+			background-color:  #000000;
 		}
 
 		.wrapper.style3-alt {
@@ -3919,4 +3919,8 @@ input, select, textarea {
 
 		.skills-content{
 			text-align: justify;
+		}
+
+		.dark-text{
+			color: #000000;
 		}
