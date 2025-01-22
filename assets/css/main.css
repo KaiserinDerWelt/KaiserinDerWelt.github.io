@@ -3309,6 +3309,10 @@ input, select, textarea {
 						height: auto;
 					}
 
+					.header-mainpage{
+						font-size:  70px !important;
+					}
+
 			}
 
 		.wrapper.fade-up > .inner {
@@ -3907,6 +3911,11 @@ input, select, textarea {
 
 			#intro {
 				background-attachment: scroll;
+			}
+
+			.header-mainpage{
+				font-size:  40px !important;
+				line-height: 80px !important;
 			}
 
 		}
