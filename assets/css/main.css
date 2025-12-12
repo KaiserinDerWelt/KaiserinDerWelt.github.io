@@ -3937,8 +3937,8 @@ input, select, textarea {
 .Chameleon-picture {
 	display: flex;
 	justify-content: center;
-	margin-left: 100px;
 	align-items: center;
+	margin-left: 100px;
 	border-radius: 50%;
 	height: 390px;
 	
@@ -3956,4 +3956,15 @@ input, select, textarea {
 	color:#000000;
 	font-size: 18px;
 	margin: none;
+}
+
+.spacekdw{
+letter-spacing: 2px;}
+
+.SkillIcon{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 100px;
+	width: 100px;
 }
