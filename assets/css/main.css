@@ -3935,11 +3935,13 @@ input, select, textarea {
 			color: #000000;
 		}
 .Chameleon-picture {
-	border-radius: 50%;
-	height: 500px;
 	display: flex;
 	justify-content: center;
+	margin-left: 100px;
 	align-items: center;
+	border-radius: 50%;
+	height: 390px;
+	
 }
 
 .content-highlight{
