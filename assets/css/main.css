@@ -3243,7 +3243,7 @@ input, select, textarea {
 		}
 
 		.wrapper.style1 {
-			background-color: #FFEB00;
+			background-color: #000000;
 		}
 
 		.wrapper.style1-alt {
@@ -3310,7 +3310,8 @@ input, select, textarea {
 					}
 
 					.header-mainpage{
-						font-size:  70px !important;
+						font-size:  30px;
+						background-color: #00FF99;
 					}
 
 			}
@@ -3933,3 +3934,10 @@ input, select, textarea {
 		.dark-text{
 			color: #000000;
 		}
+.Chameleon-picture {
+	border-radius: 50%;
+	height: 500px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
