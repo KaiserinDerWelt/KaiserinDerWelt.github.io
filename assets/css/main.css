@@ -3941,3 +3941,17 @@ input, select, textarea {
 	justify-content: center;
 	align-items: center;
 }
+
+.content-highlight{
+	background-color: #003366;	
+}
+
+.Validation{
+	text-align: center;
+}
+
+.University{
+	color:#000000;
+	font-size: 18px;
+	margin: none;
+}
