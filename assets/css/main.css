@@ -3935,10 +3935,9 @@ input, select, textarea {
 			color: #000000;
 		}
 .Chameleon-picture {
-	display: flex;
-	justify-content: center;
-	align-items: center;
-	margin-left: 100px;
+	display: flex !important;
+	justify-content: center !important;
+	align-items: center !important;
 	border-radius: 50%;
 	height: 390px;
 	
@@ -3956,6 +3955,7 @@ input, select, textarea {
 	color:#000000;
 	font-size: 18px;
 	margin: none;
+	text-shadow: #FFFFFF 1px 1px 2px;
 }
 
 .spacekdw{
