@@ -3939,14 +3939,18 @@ input, select, textarea {
 	justify-content: center !important;
 	align-items: center !important;
 	border-radius: 50%;
-	height: 390px;
+	height: 300px;
 	
 }
 
 .content-highlight{
 	background-color: #003366;	
 }
-
+.FrontEndStack{
+	display: flex !important;
+	justify-content: center !important;
+	align-items: center !important;
+}
 .Validation{
 	text-align: center;
 }
